@@ -227,7 +227,6 @@ conn.once('open', function ()
                                     .then(contributions => {
                                       const bots = [
                                         'adsactly',
-                                        'analisa',
                                         'animus',
                                         'appreciator',
                                         'ausbitbot',
